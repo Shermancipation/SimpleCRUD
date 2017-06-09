@@ -1,0 +1,8 @@
+C:\Users\Natasha\Desktop\DojoAssignments\netCore\CRUDMySQL\bin\Debug\netcoreapp1.1\CRUDMySQL.deps.json
+C:\Users\Natasha\Desktop\DojoAssignments\netCore\CRUDMySQL\bin\Debug\netcoreapp1.1\CRUDMySQL.runtimeconfig.json
+C:\Users\Natasha\Desktop\DojoAssignments\netCore\CRUDMySQL\bin\Debug\netcoreapp1.1\CRUDMySQL.runtimeconfig.dev.json
+C:\Users\Natasha\Desktop\DojoAssignments\netCore\CRUDMySQL\bin\Debug\netcoreapp1.1\CRUDMySQL.dll
+C:\Users\Natasha\Desktop\DojoAssignments\netCore\CRUDMySQL\bin\Debug\netcoreapp1.1\CRUDMySQL.pdb
+C:\Users\Natasha\Desktop\DojoAssignments\netCore\CRUDMySQL\obj\Debug\netcoreapp1.1\CRUDMySQL.AssemblyInfo.cs
+C:\Users\Natasha\Desktop\DojoAssignments\netCore\CRUDMySQL\obj\Debug\netcoreapp1.1\CRUDMySQL.dll
+C:\Users\Natasha\Desktop\DojoAssignments\netCore\CRUDMySQL\obj\Debug\netcoreapp1.1\CRUDMySQL.pdb
